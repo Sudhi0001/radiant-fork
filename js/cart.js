@@ -286,7 +286,7 @@ function sendOrderToWhatsApp(items, paymentMode = "COD", paymentId = null) {
   }
 
   window.open(
-    `https://wa.me/919187369461?text=${encodeURIComponent(msg)}`,
+    `https://wa.me/916364800327?text=${encodeURIComponent(msg)}`,
     "_blank"
   );
 }
